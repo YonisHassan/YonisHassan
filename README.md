@@ -3,7 +3,7 @@
 Aspiring scholar based in London, UK  
 BSc Physics with Data Science | Queen Mary University of London  
 Email: [yonishassan267@gmail.com](mailto:yonishassan267@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/yonishassan267/) | [GitHub](https://github.com/YonisHassan)
+[LinkedIn](https://www.linkedin.com/in/yonishassan267/)
 
 ---
 
