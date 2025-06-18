@@ -78,6 +78,12 @@ BSc Physics with Data Science | Queen Mary University of London
 - Created a personal website to showcase projects, writing, and research.
 - Focused on clean design, responsive layout, and accessibility.
 - Served as a central hub for academic and creative work.
+  
+### Fractal Visualiser and Generator
+- Built an interactive tool to generate and explore mathematical fractals.
+- Visualised structures such as the Mandelbrot set, Julia sets, and Sierpinski triangle.
+- Focused on demonstrating infinite complexity through simple recursive rules.
+
 
 ---
 
