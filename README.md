@@ -10,46 +10,74 @@ BSc Physics with Data Science | Queen Mary University of London
 ## Projects and Research
 
 ### Modelling Electrostatic Penetration Energy
-A dissertation project exploring the computational modelling of electrostatic penetration energy in molecular systems, focusing on accurately representing non-classical charge distribution effects.
+- Dissertation project focused on non-classical electrostatics in molecular interactions.
+- Modelled electrostatic penetration energy using advanced computational methods.
+- Aimed at improving physical accuracy in molecular simulations.
 
 ### Predicting Car Acceptability Using Categorical Features
-Developed and optimised Random Forest and Multi-layer Perceptron models using the UCI Car Evaluation dataset. Achieved up to 98.8% accuracy through hyperparameter tuning and class balancing with SMOTE.
+- Built and tuned Random Forest and MLP classifiers using the UCI Car Evaluation dataset.
+- Achieved up to 98.8% accuracy through hyperparameter tuning and SMOTE for class balancing.
+- Emphasised performance on imbalanced multiclass classification.
 
 ### Pulsar Star Classification from Signal Data
-Created a decision tree classifier to identify pulsars from radio signal data in the HTRU2 dataset, achieving 96.7% accuracy using stratified k-fold cross-validation and ROC analysis.
+- Developed a decision tree classifier to distinguish pulsars from non-pulsars in HTRU2 data.
+- Reached 96.7% accuracy using stratified k-fold cross-validation and ROC analysis.
+- Focused on interpretability and signal-based pattern recognition.
 
 ### Fraud Detection in Financial Transactions
-Engineered a machine learning pipeline to detect financial fraud, achieving a 95% precision rate. Emphasised interpretability, class imbalance handling, and practical deployment.
+- Engineered a machine learning pipeline for fraud detection with 95% precision.
+- Addressed extreme class imbalance and prioritised model interpretability.
+- Considered real-world constraints for potential deployment.
 
 ### Scientific Paper Topic Modelling
-Applied NLP methods including LDA and BERTopic to identify and visualise research trends in scientific publications. Emphasised unsupervised learning and insight generation.
+- Applied NLP techniques (LDA, BERTopic) to extract themes from research abstracts.
+- Enabled visual exploration of topic trends over time.
+- Emphasised unsupervised learning and exploratory data analysis.
 
 ### UK Crime Data Analysis
-Analysed UK crime datasets using data science techniques, producing interactive visualisations and spatial-temporal insights to support urban planning and public policy.
+- Analysed national crime data to uncover spatial and temporal trends.
+- Created interactive visualisations for public policy insights.
+- Applied geospatial and statistical analysis in Python.
 
 ### AI-Powered Personal Study Planner
-Developed a machine learning solution generating personalised study schedules based on user availability, subjects, and learning preferences.
+- Built a machine learning system that generates personalised study plans.
+- Accounted for user schedules, subject load, and learning patterns.
+- Designed for flexibility, usability, and individual adaptability.
 
 ### Emotion Detection from Speech and Text
-Implemented multimodal emotion recognition combining machine learning and deep learning techniques to analyse audio and textual data.
+- Developed models to recognise emotions using audio and text data.
+- Combined classical ML and deep learning for multimodal analysis.
+- Focused on practical applications in human-computer interaction.
 
 ### Physics-Informed Neural Networks for Solving Differential Equations
-Leveraged deep learning models incorporating physical laws (PINNs) to solve differential equations relevant in physics and engineering.
+- Used neural networks with embedded physical laws (PINNs) for solving PDEs.
+- Applied to problems in physics and engineering contexts.
+- Bridged data-driven models with governing equations.
 
 ### Fourier Transform Visualiser
-Created an interactive educational tool demonstrating Fourier transforms and frequency decomposition principles for signal analysis.
+- Created an interactive tool to demonstrate Fourier transform concepts.
+- Visualised frequency decomposition in real time.
+- Aimed at educational clarity for signal processing learners.
 
 ### Marginalia – A Platform for Self-Expression
-Developed a minimalist, ad-free Django platform for essays, poetry, and personal thought, prioritising authenticity and artistic freedom.
+- Designed and developed a minimalist Django platform for creative writing.
+- Removed commercial metrics in favour of artistic authenticity.
+- Supported essays, poetry, and spoken word content.
 
 ### Bespoke Search Engine
-Constructed an experimental front-end search interface emphasising visual design, interactivity, and customised query suggestions.
+- Built an experimental search interface with a focus on visual design.
+- Reimagined search interaction through tailored suggestions.
+- Prioritised user experience over traditional query UIs.
 
 ### Rust Unit Converter
-Built a command-line unit converter application in Rust, emphasising robustness, clarity, and type safety.
+- Implemented a command-line unit converter in Rust.
+- Practiced systems-level programming with type safety and clarity.
+- Aimed at learning idiomatic Rust through a practical tool.
 
 ### Portfolio Website
-Designed and developed a personal portfolio website consolidating projects, writings, and research outputs into a unified digital presence.
+- Created a personal website to showcase projects, writing, and research.
+- Focused on clean design, responsive layout, and accessibility.
+- Served as a central hub for academic and creative work.
 
 ---
 
