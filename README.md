@@ -10,36 +10,21 @@ BSc Physics with Data Science | Queen Mary University of London
 ## Projects and Research
 
 ### Modelling Electrostatic Penetration Energy
-<img src="images/feynman.png" alt="Physics Visualization" width="200" align="right"/>
-
 - Dissertation project focused on non-classical electrostatics in molecular interactions.
 - Modelled electrostatic penetration energy using advanced computational methods.
 - Aimed at improving physical accuracy in molecular simulations.
 
 ### Predicting Car Acceptability Using Categorical Features
-<img src="images/coding.png" alt="Machine Learning Code" width="200" align="right"/>
-
 - Built and tuned Random Forest and MLP classifiers using the UCI Car Evaluation dataset.
 - Achieved up to 98.8% accuracy through hyperparameter tuning and SMOTE for class balancing.
 - Emphasised performance on imbalanced multiclass classification.
 
 ### Pulsar Star Classification from Signal Data
-<img src="images/jwst.png" alt="Astronomical Data" width="200" align="right"/>
-
 - Developed a decision tree classifier to distinguish pulsars from non-pulsars in HTRU2 data.
 - Reached 96.7% accuracy using stratified k-fold cross-validation and ROC analysis.
 - Focused on interpretability and signal-based pattern recognition.
 
-### JWST Image Analysis Project
-<img src="images/jwst-pillars.png" alt="JWST Pillars of Creation" width="200" align="right"/>
-
-- Advanced image processing and analysis of James Webb Space Telescope data
-- Astronomical data visualization and computational imaging techniques
-- Applied machine learning methods to celestial object detection and classification
-
 ### Emotion Detection from Speech and Text
-<img src="images/malcolm.png" alt="Data Analysis" width="200" align="right"/>
-
 - Developed models to recognise emotions using audio and text data.
 - Combined classical ML and deep learning for multimodal analysis.
 - Focused on practical applications in human-computer interaction.
@@ -66,20 +51,9 @@ Find more in my repositories
 
 Open to new opportunities and collaborations in datascience and physics.
 
----
-
-## Project Gallery
-
-<p align="center">
-  <img src="images/coding.png" alt="Coding Projects" width="120"/>
-  <img src="images/feynman.png" alt="Physics Simulations" width="120"/>
-  <img src="images/jwst.png" alt="Astronomy Data" width="120"/>
-  <img src="images/jwst-pillars.png" alt="JWST Analysis" width="120"/>
-  <img src="images/malcolm.png" alt="Data Science" width="120"/>
-</p>
-
 --- 
-Malcolm X's Letter From Mecca (April 20, 1964) by Malcolm X (Malik el-Shabazz)
+
+**Malcolm X's Letter From Mecca** *(April 20, 1964)*
 
 Never have I witnessed such sincere hospitality and the overwhelming spirit of true brotherhood as practiced by people of all colors and races here in this Ancient Holy Land, the home of Abraham, Muhammad and all other prophets of the Holy Scriptures. For the past week, I have been utterly speechless and spellbound by the graciousness I see displayed all around me by people of all colors.
 
@@ -95,4 +69,4 @@ Each hour here in the Holy Land enables me to have greater spiritual insights in
 
 Never have I been so highly honored. Never have I been made to feel more humble and unworthy. Who would believe the blessings that have been heaped upon an American Negro? A few nights ago, a man who would be called in America a 'white' man, a United Nations diplomat, an ambassador, a companion of kings, gave me his hotel suite, his bed. By this man, His Excellency Prince Faisal who rules this Holy Land, was made aware of my presence here in Jedda. The very next morning, Prince Faisal's son, in person, informed me that by the will and decree of his esteemed father, I was to be a State Guest. The deputy Chief of Protocol himself took me before the Hajj Court. His Holiness Sheikh Muhammad Harkon himself okayed my visit to Mecca. His Holiness gave me two books on Islam, with his personal seal and autograph, and he told me that he prayed that I would be a successful preacher of Islam in America. A car, a driver, and a guide, have been placed at my disposal, making it possible for me to travel about this Holy Land almost at will. The government provides air conditioned quarters and servants in each city that I visit. Never would I have even thought of dreaming that I would ever be a recipient of such honors—honors that in America would be bestowed upon a King—not a Negro. All praise is due to Allah, the Lord of all the Worlds.
 
-Sincerely, El-Hajj Malik El-Shabazz (Malcolm X)
+*Sincerely, El-Hajj Malik El-Shabazz (Malcolm X)*
