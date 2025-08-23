@@ -1,57 +1,80 @@
-# Yonis Hassan
+<h1 align="center">Yonis Hassan</h1>
+<h3 align="center">Aspiring Scholar Based in London | BSc Physics with Data Science | Queen Mary University of London</h3>
 
-Aspiring Scholar  
-Based in London  
-BSc Physics with Data Science | Queen Mary University of London  
-[yonishassan267@gmail.com](mailto:yonishassan267@gmail.com)  | [LinkedIn](https://www.linkedin.com/in/yonishassan267/) | [Website](https://yonishassan.github.io/ )
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonishassan&label=Profile%20views&color=0e75b6&style=flat" alt="yonishassan" /> </p>
+
+
+| What I'm up to | Details |
+|----------------|---------|
+| Learning | **Computer vision** |
+| Exploring | **Scientific computing in Python, data storytelling and visualisation, reproducibility, open-source collaboration** |
+| Ask me about | **Linux** |
+| Contact | **yonishassan267@gmail.com** |
+| Fun fact | **I can dunk** |
+| Website | [yonishassan.github.io](https://yonishassan.github.io/) |
+| Resume | [View Resume](https://yonishassan.github.io/cv.pdf) |
+| LinkedIn | [linkedin.com/in/yonishassan267](https://linkedin.com/in/yonishassan267) |
+
 
 ---
 
 ## Projects and Research
 
-### Modelling Electrostatic Penetration Energy
-- Dissertation project focused on non-classical electrostatics in molecular interactions.
-- Modelled electrostatic penetration energy using advanced computational methods.
-- Aimed at improving physical accuracy in molecular simulations.
+**Modelling Electrostatic Penetration Energy**
+- Dissertation project focused on non-classical electrostatics in molecular interactions
+- Modelled electrostatic penetration energy using advanced computational methods
+- Aimed at improving physical accuracy in molecular simulations
 
-### Predicting Car Acceptability Using Categorical Features
-- Built and tuned Random Forest and MLP classifiers using the UCI Car Evaluation dataset.
-- Achieved up to 98.8% accuracy through hyperparameter tuning and SMOTE for class balancing.
-- Emphasised performance on imbalanced multiclass classification.
+**Predicting Car Acceptability Using Categorical Features**
+- Built and tuned Random Forest and MLP classifiers using the UCI Car Evaluation dataset
+- Achieved up to 98.8% accuracy through hyperparameter tuning and SMOTE for class balancing
+- Emphasised performance on imbalanced multiclass classification
 
-### Pulsar Star Classification from Signal Data
-- Developed a decision tree classifier to distinguish pulsars from non-pulsars in HTRU2 data.
-- Reached 96.7% accuracy using stratified k-fold cross-validation and ROC analysis.
-- Focused on interpretability and signal-based pattern recognition.
+**Pulsar Star Classification from Signal Data**
+- Developed a decision tree classifier to distinguish pulsars from non-pulsars in HTRU2 data
+- Reached 96.7% accuracy using stratified k-fold cross-validation and ROC analysis
+- Focused on interpretability and signal-based pattern recognition
 
-### Emotion Detection from Speech and Text
-- Developed models to recognise emotions using audio and text data.
-- Combined classical ML and deep learning for multimodal analysis.
-- Focused on practical applications in human-computer interaction.
+**Emotion Detection from Speech and Text**
+- Developed models to recognise emotions using audio and text data
+- Combined classical ML and deep learning for multimodal analysis
+- Focused on practical applications in human-computer interaction
 
-### Physics-Informed Neural Networks for Solving Differential Equations
-- Used neural networks with embedded physical laws (PINNs) for solving PDEs.
-- Applied to problems in physics and engineering contexts.
-- Bridged data-driven models with governing equations.
+**Physics-Informed Neural Networks for Solving Differential Equations**
+- Used neural networks with embedded physical laws (PINNs) for solving PDEs
+- Applied to problems in physics and engineering contexts
+- Bridged data-driven models with governing equations
 
-### Portfolio Website
-- Created a personal website to showcase projects, writing, and research.
-- Focused on clean design, responsive layout, and accessibility.
-- Served as a central hub for academic and creative work.
+**Portfolio Website**
+- Created a personal website to showcase projects, writing, and research
+- Focused on clean design, responsive layout, and accessibility
+- Served as a central hub for academic and creative work
 
-Find more in my repositories 
+*Find more in my repositories*
 
 ---
 
-## Currently Exploring
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yonishassan267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonishassan267" height="30" width="40" /></a>
+</p>
 
-- Scientific computing in Python  
-- Data storytelling and visualisation  
-- Reproducibility and open-source collaboration in research
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-Open to new opportunities and collaborations in datascience and physics.
+---
+
+<p align="center"><strong>Open to new opportunities and collaborations in data science and physics.</strong></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonishassan&show_icons=true&locale=en&layout=compact" alt="yonishassan" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yonishassan&show_icons=true&locale=en" alt="yonishassan" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yonishassan&" alt="yonishassan" /></p>
+
 
 --- 
+**Please read, the autobiograph of Malcolm X changed my life and I emplore everyone to read it as well**
 
 **Malcolm X's Letter From Mecca** *(April 20, 1964)*
 
