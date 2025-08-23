@@ -6,14 +6,15 @@
 
 | What I'm up to | Details |
 |----------------|---------|
-| Learning | **Computer vision** |
-| Exploring | **Scientific computing in Python, data storytelling and visualisation, reproducibility, open-source collaboration** |
-| Ask me about | **Linux** |
-| Contact | **yonishassan267@gmail.com** |
-| Fun fact | **I can dunk** |
-| Website | [yonishassan.github.io](https://yonishassan.github.io/) |
-| Resume | [View Resume](https://yonishassan.github.io/cv.pdf) |
-| LinkedIn | [linkedin.com/in/yonishassan267](https://linkedin.com/in/yonishassan267) |
+
+- **Learning:** Computer vision
+- **Exploring:** Scientific computing in Python, data storytelling and visualisation, reproducibility, open-source collaboration
+- **Ask me about:** Linux
+- **Fun fact:** I can dunk
+- **Contact:** yonishassan267@gmail.com
+- **Website:** [yonishassan.github.io](https://yonishassan.github.io/)
+- **Resume:** [View Resume](./Yonis%20Hassan%20Resume.pdf)
+- **LinkedIn:** [linkedin.com/in/yonishassan267](https://linkedin.com/in/yonishassan267)
 
 
 ---
@@ -53,10 +54,10 @@
 *Find more in my repositories*
 
 ---
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yonishassan267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonishassan267" height="30" width="40" /></a>
+<a href="https://yonishassan.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
