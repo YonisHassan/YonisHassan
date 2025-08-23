@@ -1,7 +1,7 @@
 <h1 align="center">Yonis Hassan</h1>
 <h3 align="center">Aspiring Scholar Based in London | BSc Physics with Data Science | Queen Mary University of London</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yonishassan&label=Profile%20views&color=0e75b6&style=flat" alt="yonishassan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yonishassan&label=Profile%20views&color=0e75b6&style=flat" alt="yonishassan" /> </p>
 
 
 | What I'm up to | Details |
