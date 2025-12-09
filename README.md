@@ -1,9 +1,11 @@
 <h1 align="center">Yonis Hassan</h1>
-<h3 align="center">Aspiring Scholar Based in London | BSc Physics with Data Science | Queen Mary University of London</h3>
+<h3 align="center">DevOps Engineer | AWS • Terraform • Kubernetes • CI/CD</h3>
+<p align="center">BSc Physics with Data Science | Queen Mary University of London</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yonishassan&label=Profile%20views&color=0e75b6&style=flat" alt="yonishassan" /> </p>
 
 ---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/yonishassan267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonishassan267" height="30" width="40" /></a>
@@ -13,27 +15,57 @@
 | What I'm up to |
 |----------------|
 
-- **Learning:** Computer vision
-- **Exploring:** Scientific computing in Python, data storytelling and visualisation, reproducibility, open-source collaboration
-- **Ask me about:** Linux
+- **Currently:** Building cloud infrastructure and automation systems
+- **Learning:** AWS Solutions Architect Associate, Advanced Terraform patterns, Kubernetes orchestration
+- **Working on:** CloudOps Toolkit - Production DevOps automation suite for multi-cloud deployments
+- **Exploring:** Infrastructure-as-Code best practices, GitOps workflows, cloud cost optimization
+- **Ask me about:** AWS, Terraform, Docker, Kubernetes, Jenkins, CI/CD pipelines, Linux administration
+- **Certifications:** AWS Cloud Practitioner & Solutions Architect Associate (Expected 2026)
 - **Fun fact:** I can dunk
 - **Contact:** yonishassan267@gmail.com
 - **Resume:** [View](./Yonis%20Hassan%20Resume.pdf)
 
+---
+
+## 🚀 DevOps & Infrastructure Projects
+
+**[CloudOps Toolkit](https://github.com/YonisHassan/cloudops-toolkit)** - Production DevOps Automation Suite
+- Comprehensive DevOps automation platform with multi-cloud infrastructure provisioning using Terraform modules for AWS and Azure
+- CI/CD pipeline generator that auto-creates Jenkins and GitHub Actions workflows from configuration files
+- Unified monitoring dashboard aggregating CloudWatch and Prometheus metrics with custom alerting engine
+- CLI tools for infrastructure deployment, pipeline management, and observability across production environments
+- *Tech Stack: Python, Terraform, AWS (EC2, VPC, S3, CloudWatch, IAM), Docker, Kubernetes, Jenkins*
+
+**[GhostTrack](https://github.com/YonisHassan/GhostTrack)** ⭐ 5.7k+ stars
+- Location tracking application processing GPS coordinates with robust data validation
+- RESTful API endpoints for integration with mapping and analytics services
+- Privacy protection features ensuring secure handling of sensitive location data
+- *Tech Stack: Python, Geolocation APIs, RESTful API Design*
+
+**Container Orchestration Analytics Tool**
+- Automation toolkit for Docker container deployment monitoring and performance analytics
+- Data collection systems tracking container resource usage, uptime metrics, and deployment success rates
+- Automated reporting features providing insights into infrastructure efficiency and cost optimization
+- *Tech Stack: Python, Docker, Kubernetes, Monitoring Tools*
 
 ---
 
-## Projects and Research
+## 🎓 Academic Research & Data Science Projects
 
-**Modelling Electrostatic Penetration Energy**
-- Dissertation project focused on non-classical electrostatics in molecular interactions
-- Modelled electrostatic penetration energy using advanced computational methods
-- Aimed at improving physical accuracy in molecular simulations
+**Modelling Electrostatic Penetration Energy** - *BSc Dissertation*
+- Focused on non-classical electrostatics in molecular interactions using advanced computational methods
+- Modelled electrostatic penetration energy to improve physical accuracy in molecular simulations
+- Bridged theoretical physics with computational implementation
+
+**Physics-Informed Neural Networks for Solving Differential Equations**
+- Used neural networks with embedded physical laws (PINNs) for solving PDEs
+- Applied to problems in physics and engineering contexts
+- Bridged data-driven models with governing equations
 
 **Predicting Car Acceptability Using Categorical Features**
 - Built and tuned Random Forest and MLP classifiers using the UCI Car Evaluation dataset
 - Achieved up to 98.8% accuracy through hyperparameter tuning and SMOTE for class balancing
-- Emphasised performance on imbalanced multiclass classification
+- Emphasized performance on imbalanced multiclass classification
 
 **Pulsar Star Classification from Signal Data**
 - Developed a decision tree classifier to distinguish pulsars from non-pulsars in HTRU2 data
@@ -41,39 +73,73 @@
 - Focused on interpretability and signal-based pattern recognition
 
 **Emotion Detection from Speech and Text**
-- Developed models to recognise emotions using audio and text data
+- Developed models to recognize emotions using audio and text data
 - Combined classical ML and deep learning for multimodal analysis
 - Focused on practical applications in human-computer interaction
 
-**Physics-Informed Neural Networks for Solving Differential Equations**
-- Used neural networks with embedded physical laws (PINNs) for solving PDEs
-- Applied to problems in physics and engineering contexts
-- Bridged data-driven models with governing equations
-
-**Portfolio Website**
-- Created a personal website to showcase projects, writing, and research
-- Focused on clean design, responsive layout, and accessibility
-- Served as a central hub for academic and creative work
-
 *Find more in my repositories*
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ---
 
-<p align="center"><strong>Open to new opportunities and collaborations in data science and physics.</strong></p>
+## 🛠️ Tech Stack
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yonishassan&show_icons=true&locale=en&layout=compact" alt="yonishassan" /></p>
+**Cloud & Infrastructure:**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yonishassan&show_icons=true&locale=en" alt="yonishassan" /></p>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yonishassan&" alt="yonishassan" /></p>
+**CI/CD & Automation:**
 
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Programming & Development:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+**Data & ML (Academic Background):**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yonishassan&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonishassan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonishassan&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center"><strong>Open to DevOps opportunities | Passionate about automation, infrastructure, and continuous learning</strong></p>
 
 --- 
-**Please read, the autobiograph of Malcolm X changed my life and I emplore everyone to read it as well**
+
+## 📖 Personal Reflection
+
+**Please read: The Autobiography of Malcolm X changed my life and I implore everyone to read it as well**
 
 **Malcolm X's Letter From Mecca** *(April 20, 1964)*
 
