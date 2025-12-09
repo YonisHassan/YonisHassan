@@ -162,3 +162,7 @@ Each hour here in the Holy Land enables me to have greater spiritual insights in
 Never have I been so highly honored. Never have I been made to feel more humble and unworthy. Who would believe the blessings that have been heaped upon an American Negro? A few nights ago, a man who would be called in America a 'white' man, a United Nations diplomat, an ambassador, a companion of kings, gave me his hotel suite, his bed. By this man, His Excellency Prince Faisal who rules this Holy Land, was made aware of my presence here in Jedda. The very next morning, Prince Faisal's son, in person, informed me that by the will and decree of his esteemed father, I was to be a State Guest. The deputy Chief of Protocol himself took me before the Hajj Court. His Holiness Sheikh Muhammad Harkon himself okayed my visit to Mecca. His Holiness gave me two books on Islam, with his personal seal and autograph, and he told me that he prayed that I would be a successful preacher of Islam in America. A car, a driver, and a guide, have been placed at my disposal, making it possible for me to travel about this Holy Land almost at will. The government provides air conditioned quarters and servants in each city that I visit. Never would I have even thought of dreaming that I would ever be a recipient of such honors—honors that in America would be bestowed upon a King—not a Negro. All praise is due to Allah, the Lord of all the Worlds.
 
 *Sincerely, El-Hajj Malik El-Shabazz (Malcolm X)*
+
+<p align="center">
+  <img src="images/malcolm.jpg" />
+</p>
