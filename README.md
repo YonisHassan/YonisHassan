@@ -135,7 +135,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/yonishassan" alt="GitHub Contribution Graph" />
+  <img src="https://github-contributions.vercel.app/api/v1/YonisHassan?theme=dracula" alt="GitHub Contribution Grid" />
 </p>
 
 ---
