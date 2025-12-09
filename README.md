@@ -135,7 +135,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/YonisHassan?theme=dracula" alt="GitHub Contribution Grid" />
+  <img src="https://github-contributions-api.jogruber.de/v4/yonishassan?format=svg&color=00e676&bg=0d1117" />
 </p>
 
 ---
