@@ -23,7 +23,7 @@
 - **Certifications:** AWS Cloud Practitioner & Solutions Architect Associate (Expected 2026)
 - **Fun fact:** I play the piano
 - **Contact:** yonishassan267@gmail.com
-- **Resume:** [View](./Yonis%20Hassan%20Resume.pdf)
+- **Resume:** [View](./Yonis_Resume.pdf)
 
 ---
 
