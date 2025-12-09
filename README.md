@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 DevOps & Infrastructure Projects
+## DevOps & Infrastructure Projects
 
 **[CloudOps Toolkit](https://github.com/YonisHassan/cloudops-toolkit)** - Production DevOps Automation Suite
 - Comprehensive DevOps automation platform with multi-cloud infrastructure provisioning using Terraform modules for AWS and Azure
@@ -50,7 +50,7 @@
 
 ---
 
-## 🎓 Academic Research & Data Science Projects
+## Academic Research & Data Science Projects
 
 **Modelling Electrostatic Penetration Energy** - *BSc Dissertation*
 - Focused on non-classical electrostatics in molecular interactions using advanced computational methods
@@ -81,7 +81,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Cloud & Infrastructure:**
 
@@ -117,18 +117,25 @@
 ---
 
 
-## 📊 GitHub Stats
-
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonishassan&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yonishassan&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonishassan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yonishassan&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yonishassan&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yonishassan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yonishassan&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/yonishassan" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -137,7 +144,7 @@
 
 --- 
 
-## 📖 Personal Reflection
+## Personal Reflection
 
 **Please read: The Autobiography of Malcolm X changed my life and I implore everyone to read it as well**
 
