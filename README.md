@@ -1,6 +1,6 @@
 <h1 align="center">Yonis Hassan</h1>
 <h3 align="center">DevOps Engineer | AWS • Terraform • Kubernetes • CI/CD</h3>
-<p align="center">BSc Physics with Data Science | Queen Mary University of London</p>
+<p align="center">BSc Physics & Data Science | Queen Mary University of London</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yonishassan&label=Profile%20views&color=0e75b6&style=flat" alt="yonishassan" /> </p>
 
@@ -21,7 +21,7 @@
 - **Exploring:** Infrastructure-as-Code best practices, GitOps workflows, cloud cost optimization
 - **Ask me about:** AWS, Terraform, Docker, Kubernetes, Jenkins, CI/CD pipelines, Linux administration
 - **Certifications:** AWS Cloud Practitioner & Solutions Architect Associate (Expected 2026)
-- **Fun fact:** I can dunk
+- **Fun fact:** I play the piano
 - **Contact:** yonishassan267@gmail.com
 - **Resume:** [View](./Yonis%20Hassan%20Resume.pdf)
 
@@ -36,7 +36,7 @@
 - CLI tools for infrastructure deployment, pipeline management, and observability across production environments
 - *Tech Stack: Python, Terraform, AWS (EC2, VPC, S3, CloudWatch, IAM), Docker, Kubernetes, Jenkins*
 
-**[GhostTrack](https://github.com/YonisHassan/GhostTrack)** ⭐ 5.7k+ stars
+**[GhostTrack](https://github.com/YonisHassan/GhostTrack)** 5.7k+ stars
 - Location tracking application processing GPS coordinates with robust data validation
 - RESTful API endpoints for integration with mapping and analytics services
 - Privacy protection features ensuring secure handling of sensitive location data
@@ -134,9 +134,6 @@
   <img src="https://streak-stats.demolab.com/?user=yonishassan&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributions-api.jogruber.de/v4/yonishassan?format=svg&color=00e676&bg=0d1117" />
-</p>
 
 ---
 
